@@ -4,8 +4,8 @@ This project is to test my understanding of machine-learning model building alon
 ---
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
+* [General Information](#general-information)
+* [Summaries](#summaries)
 * [Technologies](#technologies)
 * [Installation Guide](#installation-guide)
 * [Code Examples](#code-examples)
@@ -17,6 +17,36 @@ This project is to test my understanding of machine-learning model building alon
 ---
 
 ## General Information
+
+
+### Summaries
+
+#### Resampling
+* Which model had the best balanced accuracy score?
+* Which model had the best recall score?
+* Which model had the best geometric mean score?
+
+#### Ensemble Learning
+* Which model had the best balanced accuracy score?
+* Which model had the best recall score?
+* Which model had the best geometric mean score?
+* What are the top three features?
+
+---
+
+## Technologies
+
+---
+
+## Installation Guide
+
+---
+
+## Code Examples
+
+---
+
+## Usage
 
 ---
 
