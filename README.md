@@ -36,6 +36,8 @@ This project is to test my understanding of machine-learning model building alon
 
 ## Technologies
 
+* See [requirements.txt](./resources/requirements.txt) for a list of libraries to create a machine learning environment.
+
 ---
 
 ## Installation Guide
